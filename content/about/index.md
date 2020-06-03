@@ -10,7 +10,7 @@ skills:
   - WordPress
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Akhil a software engineer based in Sydney,AU.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
