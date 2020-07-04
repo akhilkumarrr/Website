@@ -10,7 +10,7 @@ module.exports = {
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Akhil Kumar',
   location: 'Syndey, AU',
-  email: 'akhilKumar@email.com',
+  email: 'akhilkumar@email.com',
   github: 'https://github.com/akhilkumarr',
   twitterHandle: '@akhilkumarr',
   socialMedia: [
