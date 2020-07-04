@@ -3,24 +3,24 @@ module.exports = {
   siteDescription:
     'Akhil Kumar is a software engineer based in Boston, MA who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Akhil Kumar, Akhil, Kumar, bKumar7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://Akhilkumar.com',
+    'Akhil Kumar, Akhil, Kumar, yeruva, software engineer, front-end engineer, web developer, Python, UNSW',
+  siteUrl: 'https://akhilkumar.info',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Akhil Kumar',
-  location: 'Boston, MA',
-  email: 'Akhil.Kumar@gmail.com',
-  github: 'https://github.com/bKumar7',
-  twitterHandle: '@bKumar7',
+  location: 'Syndey, AU',
+  email: 'akhilKumar@email.com',
+  github: 'https://github.com/akhilkumarr',
+  twitterHandle: '@akhilkumarr',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bKumar7',
+      url: 'https://github.com/akhilkumarr',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bKumar7',
+      url: 'https://www.linkedin.com/in/akhilkumarr',
     },
     {
       name: 'Codepen',
@@ -28,11 +28,11 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bKumar7',
+      url: 'https://www.instagram.com/akhilkumarr',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bKumar7',
+      url: 'https://twitter.com/akhilkumarr',
     },
   ],
 
